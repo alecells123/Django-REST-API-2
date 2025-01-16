@@ -1,2 +1,6 @@
 
 movies/.venv/
+
+movies/db.sqlite3
+
+movies/movies/__pycache__/
